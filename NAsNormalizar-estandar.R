@@ -1,5 +1,6 @@
 crx <- read.csv("../Downloads/crx.csv", header=FALSE, na.strings="?")
 
+
 colNumericas<-c(2, 3, 8, 11, 14, 15)
 for (i in colNumericas)
 {
