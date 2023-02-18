@@ -27,3 +27,4 @@ for (i in 1:nFolds) {
 num <- c(1,3,5,7,9)
 print(num[-c(2,3)])
 
+abs(1.51793-1.51588)
